@@ -1,0 +1,5 @@
+git pull
+cp -r /home/deb106150n3/domains/studyportalsapply.com/public_html/JarvisBuild/JarvisBuiltFolder/Jarvis/* /home/deb106150n3/domains/studyportalsapply.com/public_html/Jarvis/
+cp Jarvis/updateScript ./
+chmod 755 updateScript
+echo "done"
